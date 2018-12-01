@@ -84,7 +84,7 @@ class Curve(object):
 class Aplication(object):
     """docstring for Aplication"""
     def __init__(self):
-        self.screen = pygame.display.set_mode([1280,720])
+        self.screen = pygame.display.set_mode([1280,768])
         self.dots=[]
         self.curve_dots = []
         print('Application has been Created')
