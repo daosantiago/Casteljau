@@ -69,7 +69,7 @@ class Color(object):
     #Static method for blue color
     @staticmethod
     def blue():
-        return [0, 0, 255]
+        return [0, 0, 245]
 
     @staticmethod
     def black():
